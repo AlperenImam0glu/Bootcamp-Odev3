@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tasarım Ödevi</string>
+    <string name="gunun_tahmini">Sunny\n Max.: 31º  Min.: 25º</string>
+    <string name="bugun">Today</string>
+    <string name="tarih">March 9</string>
+    <string name="ruzgar_hizi">19 km/h</string>
+
+</resources>

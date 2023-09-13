@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasarım Ödevi</string>
+    <string name="gunun_tahmini">Güneşli\n En Yüksek.: 31º  En Düşük.: 25º</string>
+    <string name="bugun">Bugün</string>
+    <string name="tarih">9 Mart</string>
+    <string name="ruzgar_hizi">19 km/s</string>
+</resources>
