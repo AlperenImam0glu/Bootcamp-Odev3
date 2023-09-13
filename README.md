@@ -10,8 +10,8 @@
 
 
 
-Uygulama İkonu
+|Uygulama İkonu|
 
-<img src="https://github.com/AlperenImam0glu/Bootcamp-Odev3/assets/86842336/925cea5b-8b67-4333-8b8f-556624f9beef" width="300">
+|<img src="https://github.com/AlperenImam0glu/Bootcamp-Odev3/assets/86842336/925cea5b-8b67-4333-8b8f-556624f9beef" width="300">|
 
 
